@@ -1,0 +1,221 @@
+body{
+    margin: 0;
+    font-size: 18px;
+}
+
+.header{
+    max-width: 94%;
+    margin: auto;
+    background-color: hsl(193, 100%, 96%);
+}
+
+.logo{
+    width: 11rem;
+    position: absolute;
+    top: 3rem;
+    left: 4.8rem;
+}
+
+.header-bg{
+    width: 100%;
+}
+
+.written-part{
+    position: absolute;
+    top: 14.4rem;
+    left: 4.8rem;
+    max-width: 32rem;
+}
+
+.heading{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 2.45rem;
+    margin-bottom: 1.9rem;
+}
+
+.heading-description{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 1.8rem;
+}
+
+.heading-btn{
+    border: none;
+    color: white;
+    background-color: hsl(322, 100%, 66%);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    border-radius: 5rem;
+    padding: 1rem 4rem;
+}
+
+.try-free-btn{
+    position: absolute;
+    top: 2.8rem;
+    right: 4.8rem;
+    padding: 0.8rem 3.4rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.mockups{
+    max-width: 45%;
+    position: absolute;
+    top: 8.3rem;
+    right: 4.4rem;
+}
+
+.sec-1{
+    /* border: solid 1px black; */
+    max-width: 85%;
+    margin: auto;
+    margin-top: 8rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sec-1-img{
+    max-width: 38%;
+    float: right;
+    padding-top: 3.2rem;
+    padding-right: 2rem;
+    
+}
+
+.sec-1-heading{
+    padding-top: 9.7rem;
+    padding-left: 6.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.sec-1-description{
+    max-width: 36%;
+    padding-left: 6.5rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-bottom: 8rem;
+    color: hsl(208, 11%, 55%);
+}
+
+.sec-2{
+    max-width: 85%;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sec-2-img{
+    max-width: 34%;
+    float: left;
+    padding-top: 3.2rem;
+    padding-left: 6.5rem;
+}
+
+.sec-2-heading{
+    padding-top: 9.7rem;
+    padding-right: 6.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0;
+    padding-left: 34rem;
+}
+
+.sec-2-description{
+    max-width: 63%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-bottom: 6rem;
+    padding-left: 34rem;
+    padding-right: 2rem;
+    color: hsl(208, 11%, 55%);
+}
+
+.sec-3{
+    max-width: 85%;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.footer{
+    max-width: 94%;
+    margin: auto;
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+    border: solid 1px black;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    position: relative;
+    margin-top: 15rem;
+}
+
+.footer-banner{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    max-width: 47%;
+    margin: auto;
+    padding: 3rem 9rem 2.3rem;
+    background-color: white;
+    color: black;
+    position: absolute;
+    left: 18rem;
+    bottom: 26rem;
+    border-radius: 1rem;
+    
+}
+
+.btn-heading{
+    margin-top: 1.2rem;
+    padding: 1.3rem 4rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.banner-heading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 1.6rem;
+}
+
+.list{
+    max-width: 30%;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 12rem;
+    margin-bottom: 5rem;
+}
+
+.l1{
+    padding-left: 4rem;
+}
+
+.l2{
+    position: absolute;
+    top: 0rem;
+    left: 38rem;
+}
+
+.l3{
+    position: absolute;
+    top: 0rem;
+    left: 60rem;
+}
+
+li{
+    padding: 1rem 0;
+}
